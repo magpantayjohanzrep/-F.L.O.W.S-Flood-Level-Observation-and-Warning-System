@@ -14,3 +14,4 @@
 
 
 ![project pic](https://github.com/magpantayjohanzrep/-F.L.O.W.S-Flood-Level-Observation-and-Warning-System/blob/4bf7a27e85fa88b2f49703b006f22ccccf7a76d3/docs/project%20photos/flows%20pic.png)
+# NOTE: introduction only, final file is in the docs file.
