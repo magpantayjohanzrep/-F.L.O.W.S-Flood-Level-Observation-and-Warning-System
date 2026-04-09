@@ -54,6 +54,8 @@ F.L.O.W.S (Flood Level Observation and Warning System) is a smart solution that 
 - 🪣 Water Container (Testing Setup)
 
 
+# 📸 Project Pictures
+![project angles](https://github.com/magpantayjohanzrep/-F.L.O.W.S-Flood-Level-Observation-and-Warning-System/blob/8b860bba74246d5434934a08a8c44a74f0cc2fad/docs/project%20photos/8.jpg)
 
 # ⚙️ How It Works
 
@@ -81,14 +83,13 @@ F.L.O.W.S (Flood Level Observation and Warning System) is a smart solution that 
 # 🧪 Testing & Demonstration
 
 https://github.com/user-attachments/assets/9e64af5f-9287-4457-8dfd-c01a5e3b0c15
-
-- Simulated rising water using a controlled container
-- Verified automatic barrier response
   
 # 📩 Confirmed SMS delivery via SIM800L module
 ![sms](https://github.com/magpantayjohanzrep/-F.L.O.W.S-Flood-Level-Observation-and-Warning-System/blob/e96e907ce708e40cb39fba4b56d4eb5c6473150c/docs/project%20photos/sms.jpg)
 
-- Tested buzzer and LED alerts for accuracy
+# Simulated rising water using a controlled container
+# Verified automatic barrier response
+# Tested buzzer and LED alerts for accuracy
 
 # 🚀 Future Improvements
 - 📡 IoT integration (mobile app monitoring)
